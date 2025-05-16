@@ -16,6 +16,7 @@ function changeColor() {
         document.getElementById("colorDiv").className = "red";
     } else {
         openAlert('verde')
-        document.getElementById("colorDiv").className = "green";
+        document.getElementById("colorDiv").className = "purple";
     }
 }
+
